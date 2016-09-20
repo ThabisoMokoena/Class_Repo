@@ -12,7 +12,7 @@ Life have been so amazing, the journey has been an amuzement. I love living the 
 | name | class | 
 |-------|:-------|
 |tazz | agilelegends|
-|kristina | deutch |
+|kristina | deutch |  
 
 [tazz](tazz.com)
 
